@@ -1,0 +1,33 @@
+ body{
+ 	background-color: #F1948A;
+ }
+ header{
+ 	background-color: #E74C3C;
+ }
+ h1 small{
+ 	color: #000000;
+ }
+ nav{
+ 	background-color: #FFFFFF;
+ }
+ li a{
+ 	color: #17202A;
+ }
+ section{
+ 	background-color: #F7DC6F;
+ }
+ h1 img{
+	height: 100px;
+	width: 150px;
+}
+footer{
+	padding: 2em;
+
+	background-color:  #E74C3C;
+}
+
+.main img{
+
+	padding: 2em;
+	width: 100%;
+}
